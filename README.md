@@ -1,6 +1,6 @@
 # OpenAiClient Module
 
-This module is a wrapper around   openai-php/client library.
+This module is a wrapper around openai-php/client library.
 
 ## Installation
 

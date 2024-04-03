@@ -1,8 +1,10 @@
 {
     "name": "spryker-community/open-ai-client",
     "type": "library",
-    "description": "OpenAiClient module",
-    "license": "proprietary",
+    "description": "The OpenAiClient module provides a wrapper around openai-php/client library.",
+    "keywords": ["AI", "openAI", "client"],
+    "homepage": "https://github.com/spryker-community/open-ai-client",
+    "license": "MIT",
     "require": {
         "php": ">=8.0",
         "openai-php/client": "^0.8.4",
